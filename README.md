@@ -14,16 +14,6 @@
 
 ---
 
-## 📱 Screenshots
-
-> _Add your own screenshots here after building the app._
-
-| Home Screen | Game Screen | Game Over |
-|:-----------:|:-----------:|:---------:|
-| ![home](#)  | ![game](#)  | ![over](#)|
-
----
-
 ## ✨ Features
 
 - 🎮 **2-Player Local** — Pass & play with a friend on the same device
@@ -86,7 +76,7 @@ ultimate_tictactoe/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ultimate-tictactoe.git
+git clone https://github.com/srujalprusty/ultimate-tictactoe.git
 cd ultimate-tictactoe
 
 # 2. Install dependencies
