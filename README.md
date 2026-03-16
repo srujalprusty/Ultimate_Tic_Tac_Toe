@@ -76,7 +76,7 @@ ultimate_tictactoe/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/srujalprusty/ultimate-tictactoe.git
+https://github.com/srujalprusty/Ultimate_Tic_Tac_Toe.git
 cd ultimate-tictactoe
 
 # 2. Install dependencies
